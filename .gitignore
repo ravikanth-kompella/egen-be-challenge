@@ -1,0 +1,7 @@
+# Eclipse stuff to ignore
+/.classpath
+/.project
+/.settings
+/target
+/readme.txt
+/src/main/java/io/egen/sensor/Emulator.java
